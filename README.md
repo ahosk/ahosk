@@ -48,7 +48,7 @@ me.say_hi()
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahosk&theme=dark" alt="Gift's LangStat" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ahosk&theme=dark" alt="Gift's LangStat" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahosk&langs_count=10&show_icons=true&count_private=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 <!--END_SECTION:About-->
