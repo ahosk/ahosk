@@ -53,6 +53,9 @@ me.say_hi()
 
 ***
 <!-- START_SECTION:Social Media-->
+
+## Social Media Links
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Allen_Hoskins?label=Follow)](https://twitter.com/intent/follow?screen_name=Allen_Hoskins)
 [![Linkedin: Allen_Hoskins](https://img.shields.io/badge/-Allen_Hoskins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allen-hoskins-mba-capm/)](https://www.linkedin.com/in/allen-hoskins-mba-capm/)
 ![GitHub followers](https://img.shields.io/github/followers/ahosk?label=Follow&style=social)
