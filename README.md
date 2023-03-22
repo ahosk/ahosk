@@ -3,7 +3,7 @@
 <!--START_SECTION:About-->
 ```python
 
-class DataEngineer:
+class DataEngineer(self):
 
     def __init__(self):
         self.name = "Allen Hoskins"
