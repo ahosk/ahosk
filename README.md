@@ -15,13 +15,14 @@ class DataEngineer(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
     
     def info(self):
-        self.langauges = ["Python", "R", "SQL", "Rust"]
+        self.langauges = ["Python", "R", "SQL", "Rust", "HTML"]
         self.devOps = ["AWS", "Docker🐳", "Airflow"]
         self.tools = ["Databricks", "dbt", "VSCode"]
       
 
 me = DataEngineer()
 me.say_hi()
+me.info()
 
 ```
 <!--END_SECTION:About-->
