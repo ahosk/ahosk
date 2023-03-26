@@ -47,7 +47,10 @@ class DataEngineer(self):
                                     "Road Bike": [
                                         "Trek"
                                     ]
-                                }
+                                },
+                                "Golf": [
+                                        "Could break 100 on a good day"
+                                    ]
                             }
                          }
              
