@@ -18,44 +18,7 @@ class DataEngineer(self):
         self.langauges = ["Python", "R", "SQL", "Rust", "HTML"]
         self.devOps = ["AWS", "Docker🐳", "Airflow"]
         self.tools = ["Databricks", "dbt", "VSCode"]
-        self.interests = {
-                            "travel": {
-                                "Europe": [
-                                    "Austria", "Belgium", "England", "France", "Greece", "Hungary", "Italy",
-                                    "Liechtenstein", "Monaco", "Slovakia", "Switzerland", "UK", "Vatican City"
-                                ],
-                                "Asia": [
-                                    "Israel", "South Korea", "Thailand", "Turkey"
-                                ],
-                                "South America": [
-                                    "Peru"
-                                ],
-                                "North America": [
-                                    "Bahamas", "Canada", "Costa Rica", "Jamaica", "Mexico", "United States"
-                                ]
-                            },
-                            "Photography": {
-                                "Camera": [
-                                    "Fujifilm XT-5"
-                                ]
-                            },
-                            "Activities": {
-                                "Cycling": {
-                                    "Mountain Bike": [
-                                        "Canyon"
-                                    ],
-                                    "Road Bike": [
-                                        "Trek"
-                                    ]
-                                },
-                                "Golf": [
-                                        "Could break 100 on a good day"
-                                    ]
-                            }
-                         }
-             
-      
-
+       
 me = DataEngineer()
 me.say_hi()
 me.info()
