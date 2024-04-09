@@ -15,7 +15,7 @@ class DataEngineer(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
     
     def info(self):
-        self.langauges = ["Python", "R", "SQL", "Rust", "HTML"]
+        self.langauges = ["Python", "R", "SQL", "HTML", "Pyspark"]
         self.devOps = ["AWS", "Docker🐳", "Airflow"]
         self.tools = ["Databricks", "dbt", "VSCode"]
        
@@ -34,7 +34,6 @@ me.info()
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg" alt="R" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
